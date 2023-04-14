@@ -34,6 +34,7 @@ UNIHAN_MANIFEST = {
         "kHKGlyph",
         "kPhonetic",
         "kTotalStrokes",
+        'kUnihanCore2020',
     ),
     "Unihan_IRGSources.txt": (
         "kCompatibilityVariant",
@@ -47,6 +48,7 @@ UNIHAN_MANIFEST = {
         "kIRG_TSource",
         "kIRG_USource",
         "kIRG_VSource",
+        'kRSUnicode',
     ),
     "Unihan_NumericValues.txt": (
         "kAccountingNumeric",
@@ -91,7 +93,6 @@ UNIHAN_MANIFEST = {
         "kRSKangXi",
         "kRSKanWa",
         "kRSKorean",
-        "kRSUnicode",
     ),
     "Unihan_Readings.txt": (
         "kCantonese",
